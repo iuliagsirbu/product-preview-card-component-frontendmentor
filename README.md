@@ -30,7 +30,7 @@ This is a challenge from Frontend Mentor. It helps you:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://iuliagsirbu.github.io/product-preview-card-component-frontendmentor/))
+- Live Site URL: https://iuliagsirbu.github.io/product-preview-card-component-frontendmentor/
 
 ## My process
 
