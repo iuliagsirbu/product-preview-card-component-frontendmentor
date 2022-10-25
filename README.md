@@ -29,7 +29,7 @@ This is a challenge from Frontend Mentor. It helps you:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-component-solution-using-flexbox-rJow1nCl3E
 - Live Site URL: https://iuliagsirbu.github.io/product-preview-card-component-frontendmentor/
 
 ## My process
