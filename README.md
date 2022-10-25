@@ -24,8 +24,8 @@ This is a challenge from Frontend Mentor. It helps you:
 
 ### Screenshot
 
-![](./images/Index%20-%20iPhone%20X%20-%202022-25-10%20at%2011.05.38%20AM.jpg)
-![](./images/Index%20-%20MacBook%20Air%20-%202022-25-10%20at%2011.05.25%20AM.jpg)
+![](./images/Index%20-%20iPhone%20X%20-%202022-25-10%20at%2011.14.16%20AM.jpg)
+![](./images/Index%20-%20MacBook%20Air%20-%202022-25-10%20at%2011.13.30%20AM.jpg)
 
 ### Links
 
